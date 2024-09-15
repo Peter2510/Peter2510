@@ -31,6 +31,12 @@
   </a>
 </div>
 
+<div >
+    <a href="https://visitcount.itsvg.in](https://github.com/Peter2510?tab=repositories">
+    <h1>Ver proyectos</h1>
+  </a>
+</div>
+
 <!--
 **Peter2510/Peter2510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
