@@ -31,8 +31,8 @@
   </a>
 </div>
 
-<div >
-    <a href="https://visitcount.itsvg.in](https://github.com/Peter2510?tab=repositories">
+<div>
+  <a href="https://github.com/Peter2510?tab=repositories">
     <h1>Ver proyectos</h1>
   </a>
 </div>
