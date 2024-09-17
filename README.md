@@ -72,6 +72,7 @@
   
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![NetBeans](https://img.shields.io/badge/NetBeans-0097A7?style=for-the-badge&logo=apache-netbeans&logoColor=white)
+![Intellij Idea](https://img.shields.io/badge/Intellij%20Idea-000?logo=intellij-idea&style=for-the-badge)
 
 <br><br>
 
