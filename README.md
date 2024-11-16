@@ -8,6 +8,12 @@
 </div>
 <br>
 
+<div style="text-align: center;">
+  <img src="./images/img.gif" alt="developer" width="300" height="300">
+</div>
+
+
+
 ## Technologies and Tools
 
 <br>
